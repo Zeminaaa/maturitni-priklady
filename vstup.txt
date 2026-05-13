@@ -1,0 +1,3 @@
+Ahoj světe! Tohle je test Caesarovy šifry. Posun o k = 3.
+Zachovej prosím mezery, interpunkci a čísla: 0-9.
+Diakritiku klidně ponech beze změny.

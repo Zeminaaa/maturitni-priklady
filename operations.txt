@@ -1,0 +1,9 @@
+Anna;VKLAD;1000
+Pavel;VKLAD;500
+Anna;VYBER;200
+Zuzana;VKLAD;800
+Pavel;VYBER;300
+Zuzana;VYBER;900
+Pavel;VKLAD;700
+ChybaRadkuBezCastky
+Anna;VYBER;1000
